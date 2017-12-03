@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Manoj Kumar V Sarangmath",
+        "url": "http://techguywebsolutions.com"
+    },
+    "maintainers": [
+        {
+            "name": "Manoj Kumar V Sarangmath",
+            "email": "manojkumarvs28@gmail.com",
+            "url": "http://techguywebsolutions.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/manojkumarvs28/jquery.linklt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/manojkumarvs28/jquery.linklt/jquery.linkIt",
+    "docs": "https://github.com/manojkumarvs28/jquery.linklt/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
